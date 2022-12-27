@@ -1,0 +1,18 @@
+{
+  "name": "test2-26",
+  "version": "1.0.0",
+  "description": "Class & Students",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sayam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1",
+    "nodemon": "^2.0.20"
+  }
+}
